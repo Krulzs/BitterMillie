@@ -8,7 +8,12 @@ const chapters = {
         'img/kirisame_spread_015.png', 'img/kirisame_spread_016.png', 'img/kirisame_spread_017.png', 'img/kirisame_spread_018.png',
         'img/kirisame_spread_019.png', 'img/kirisame_spread_020.png', 'img/kirisame_spread_021.png', 'img/kirisame_spread_022.png', 
         'img/kirisame_spread_023.png', 'img/kirisame_spread_024.png', 'img/kirisame_spread_025.png',
-    ], 3: []
+    ], 3: [
+        'img/kirisame_spread_026.png', 'img/kirisame_spread_027.png', 'img/kirisame_spread_028.png', 'img/kirisame_spread_029.png',
+        'img/kirisame_spread_030.png', 'img/kirisame_spread_031.png', 'img/kirisame_spread_032.png', 'img/kirisame_spread_033.png',
+        'img/kirisame_spread_034.png', 'img/kirisame_spread_035.png', 'img/kirisame_spread_036.png', 'img/kirisame_spread_037.png', 
+        'img/kirisame_spread_038.png', 'img/kirisame_spread_039.png', 'img/kirisame_spread_040.png', 'img/kirisame_spread_041.png'
+    ], 4: []
 };
 let currentChapter = 1, pageIndex = 0;
 
